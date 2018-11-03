@@ -1,2 +1,2 @@
 # webhook
-Simple web hook in nodejs
+Simple web hook written in nodejs
