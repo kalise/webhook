@@ -12,7 +12,7 @@ limitations under the License.
 
 const http = require('http');
 const PORT = process.env.PORT || 8080;
-const hook = require('./hooks/hook.js');
+const hook = require('../hooks/hook.js');
 
 //Start the server
 const server = http.createServer();
